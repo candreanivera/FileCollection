@@ -1,0 +1,9 @@
+Report of files:
+Word Files  :   5
+Excel Files :   4
+PPT Files   :   3
+ 
+Report of sizes:
+Word Files  :   1.196.567
+Excel Files :   74.262
+PPT Files   :   1.403.482

@@ -1,0 +1,15 @@
+C:\FileCollection\bin\Debug\net8.0\FileCollection.exe
+C:\FileCollection\bin\Debug\net8.0\FileCollection.deps.json
+C:\FileCollection\bin\Debug\net8.0\FileCollection.runtimeconfig.json
+C:\FileCollection\bin\Debug\net8.0\FileCollection.dll
+C:\FileCollection\bin\Debug\net8.0\FileCollection.pdb
+C:\FileCollection\obj\Debug\net8.0\FileCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfoInputs.cache
+C:\FileCollection\obj\Debug\net8.0\FileCollection.AssemblyInfo.cs
+C:\FileCollection\obj\Debug\net8.0\FileCollection.csproj.CoreCompileInputs.cache
+C:\FileCollection\obj\Debug\net8.0\FileCollection.sourcelink.json
+C:\FileCollection\obj\Debug\net8.0\FileCollection.dll
+C:\FileCollection\obj\Debug\net8.0\refint\FileCollection.dll
+C:\FileCollection\obj\Debug\net8.0\FileCollection.pdb
+C:\FileCollection\obj\Debug\net8.0\FileCollection.genruntimeconfig.cache
+C:\FileCollection\obj\Debug\net8.0\ref\FileCollection.dll
